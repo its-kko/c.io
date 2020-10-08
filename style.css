@@ -1,0 +1,25 @@
+ul{
+    list-style-type: none;
+    float:left;
+    background-color: #FFCACA;
+    width:100%;
+    
+}
+li{
+    float:left;
+}
+li a{
+    padding: 14px;
+    display:block;
+    font-style: normal;
+    color:black;
+    font-size: 18px;
+}
+footer{
+    background-color: #FFCACA;
+}
+.headerh{
+    width:100%;
+    color:rgba(233, 81, 61, 0.589);
+    margin-left:
+}
